@@ -1,0 +1,90 @@
+[{
+  "_id": {
+    "$oid": "663c6cd56167b79746bbb573"
+  },
+  "category": "Popular Stories Podcasts",
+  "keywords": "popular stories podcasts",
+  "status": true,
+  "__v": 0,
+  "created_at": {
+    "$date": "2024-05-09T06:27:33.426Z"
+  },
+  "updated_at": {
+    "$date": "2024-05-09T06:27:33.426Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "663c6cd56167b79746bbb574"
+  },
+  "category": "Spooky Horror Podcasts",
+  "keywords": "spooky mystery ghost",
+  "status": true,
+  "__v": 0,
+  "created_at": {
+    "$date": "2024-05-09T06:27:33.427Z"
+  },
+  "updated_at": {
+    "$date": "2024-05-09T06:27:33.427Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "663c6cd56167b79746bbb575"
+  },
+  "category": "Learn About Indian Mythology",
+  "keywords": "indian mythology religious history",
+  "status": true,
+  "__v": 0,
+  "created_at": {
+    "$date": "2024-05-09T06:27:33.427Z"
+  },
+  "updated_at": {
+    "$date": "2024-05-09T06:27:33.427Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "663c6cd56167b79746bbb576"
+  },
+  "category": "Stories and Fairy Tales for Children",
+  "keywords": "kids stories children stories",
+  "status": true,
+  "__v": 0,
+  "created_at": {
+    "$date": "2024-05-09T06:27:33.427Z"
+  },
+  "updated_at": {
+    "$date": "2024-05-09T06:27:33.427Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "663c6cd56167b79746bbb577"
+  },
+  "category": "Inspiring Stories from Real People",
+  "keywords": "motivating exciting interviews podcasts",
+  "status": true,
+  "__v": 0,
+  "created_at": {
+    "$date": "2024-05-09T06:27:33.428Z"
+  },
+  "updated_at": {
+    "$date": "2024-05-09T06:27:33.428Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "663c6cd56167b79746bbb578"
+  },
+  "category": "Podcasts and Shows",
+  "keywords": "podcasts shows",
+  "status": true,
+  "__v": 0,
+  "created_at": {
+    "$date": "2024-05-09T06:27:33.428Z"
+  },
+  "updated_at": {
+    "$date": "2024-05-09T06:27:33.428Z"
+  }
+}]
